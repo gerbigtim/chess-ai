@@ -1,1 +1,9 @@
+# Executables and object files
+src/*.gch
+test/*.gch
+*.out
+*.o
 run-tests
+
+# VSCode
+.vscode
